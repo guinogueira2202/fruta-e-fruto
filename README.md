@@ -1,13 +1,13 @@
 # Página de Receitas Culinárias: Projeto de Desenvolvimento Front-End
-Bem-vindo(a) ao meu projeto! 
+Bem-vindo(a) ao meu projeto da Fruta & Fruto! Um projeto de desenvolvimento front-end de uma página de receitas culinárias.
 
-Sou Guilherme Nogueira, estudante de desenvolvimento web na plataforma de ensino online [Alura](https://www.alura.com.br/). Esta é uma das páginas web que desenvolvi praticando front-end com as linguagens HTML e CSS, ao longo do curso de **Arquitetura CSS: descomplicando os problemas** - [certificado de conclusão](https://cursos.alura.com.br/certificate/40db627c-76d3-4d84-9fe7-bf4eab50c80d?lang=pt_BR).
+Sou Guilherme Nogueira, estudante de desenvolvimento web na plataforma de ensino online [Alura](https://www.alura.com.br/). Esta é uma das páginas web que desenvolvi praticando front-end, com as linguagens HTML e CSS, ao longo do curso de **Arquitetura CSS: descomplicando os problemas** - [certificado de conclusão](https://cursos.alura.com.br/certificate/40db627c-76d3-4d84-9fe7-bf4eab50c80d?lang=pt_BR).
 
 ## Sobre o Projeto
 
 Se trata de uma página de receitas culinárias, contendo um **header**, **banner**, **conteúdo principal** [receitas], uma seção **sobre** e um **footer**, completamente responsivos em dispositivos móveis.
 
-![alt-text](./../assets/img/readme/screencapture-127-0-0-1-3000-html-index-html-2023-08-18-06_01_45.png "Hover text")
+<img src="./assets/img/readme/screencapture-127-0-0-1-3000-html-index-html-2023-08-18-06_01_45.png" alt="Screenshot mostrando o panorama completo da página">
 
 ## Linguagens Utilizadas
 
@@ -40,7 +40,7 @@ Sou um entusiasta da tecnologia e estou focado em me tornar um desenvolvedor ful
 onde estou aprimorando minhas habilidades em HTML, CSS e JavaScript. No entanto, meu objetivo é abraçar todas as camadas do desenvolvimento de 
 software, incluindo back-end e data science.
 
-![alt-text](./../assets/img/readme/Perfil-Gui.png "Hover text")
+<img src="./assets/img/readme/Perfil-Gui.png" alt="Foto de Guilherme Nogueira de terno, com os braços cruzados sorrindo">
 
 ## Minhas Linguagens Mais Usadas
 

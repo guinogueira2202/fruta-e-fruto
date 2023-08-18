@@ -1,7 +1,7 @@
 # Página de Receitas Culinárias: Projeto de Desenvolvimento Front-End
 Bem-vindo(a) ao meu projeto da Fruta & Fruto! Um projeto de desenvolvimento front-end de uma página de receitas culinárias.
 
-Sou Guilherme Nogueira, estudante de desenvolvimento web na plataforma de ensino online [Alura](https://www.alura.com.br/). Esta é uma das páginas web que desenvolvi praticando front-end com as linguagens HTML e CSS, ao longo do curso de **Arquitetura CSS: descomplicando os problemas** - [certificado de conclusão](https://cursos.alura.com.br/certificate/40db627c-76d3-4d84-9fe7-bf4eab50c80d?lang=pt_BR).
+Sou Guilherme Nogueira, estudante de desenvolvimento web na plataforma de ensino online [Alura](https://www.alura.com.br/). Esta é uma das páginas web que desenvolvi praticando front-end, com as linguagens HTML e CSS, ao longo do curso de **Arquitetura CSS: descomplicando os problemas** - [certificado de conclusão](https://cursos.alura.com.br/certificate/40db627c-76d3-4d84-9fe7-bf4eab50c80d?lang=pt_BR).
 
 ## Sobre o Projeto
 

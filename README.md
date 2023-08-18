@@ -31,7 +31,7 @@ Se trata de uma página de receitas culinárias, contendo um **header**, **banne
 
 Você pode visualizar a página web aqui: 
 
-[![Visualizar projeto na Vercel](https://img.shields.io/badge/Vercel-Visualizar-black?style=flat-square&logo=vercel&logoColor=white&link=https://fruta-e-fruto-teal.vercel.app/)](https://fruta-e-fruto-teal.vercel.app/)
+[![Visualizar projeto na Vercel](https://img.shields.io/badge/Vercel-Visualizar-blue?style=flat-square&logo=vercel&logoColor=white&link=https://fruta-e-fruto-teal.vercel.app/)](https://fruta-e-fruto-teal.vercel.app/)
 
 ## Sobre Mim
 

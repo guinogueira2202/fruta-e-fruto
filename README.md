@@ -29,9 +29,9 @@ Se trata de uma página de receitas culinárias, contendo um **header**, **banne
 
 ## Como Visualizar
 
-Você pode visualizar a página aqui: 
+Você pode visualizar a página web aqui: 
 
-[![Visualizar no GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Visualizar-2ea44f?style=flat-square&logo=github&logoColor=white&link=URL_DA_SUA_PAGINA)](URL_DA_SUA_PAGINA)
+[![Visualizar projeto na Vercel](https://img.shields.io/badge/GitHub%20Pages-Visualizar-2ea44f?style=flat-square&logo=github&logoColor=white&link=https://fruta-e-fruto-teal.vercel.app/)](https://fruta-e-fruto-teal.vercel.app/)
 
 
 ## Sobre Mim

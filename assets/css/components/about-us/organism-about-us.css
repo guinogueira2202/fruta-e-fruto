@@ -1,0 +1,31 @@
+@import './../../theme/theme.css';
+@import './atom-about-us-title.css';
+@import './atom-about-us-text.css';
+@import './persons/molecule-about-us-persons.css';
+@import './persons/person/molecule-person.css';
+@import './persons/person/atom-person-occupation.css';
+@import './persons/person/atom-person-name.css';
+@import './persons/person/atom-person-image.css';
+
+.about-us {
+    align-items: center;
+    background: var(--color-background-primary);
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+    padding: 3em;
+}
+
+@media only screen and (max-width: 768px) {
+    .about-us {
+        gap: 1em;
+        padding: 2em 1em;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .about-us {
+        gap: 1em;
+        padding: 2em 1em;
+    }
+}

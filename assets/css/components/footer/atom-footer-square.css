@@ -1,0 +1,7 @@
+@import './../../theme/theme.css';
+
+.footer__square {
+    background: var(--color-button);
+    height: 58px;
+    width: 58px;
+}

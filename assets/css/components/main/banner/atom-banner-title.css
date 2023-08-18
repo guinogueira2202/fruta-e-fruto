@@ -1,0 +1,21 @@
+@import './../../../theme/theme.css';
+
+.banner__title {
+    color: var(--color-font-title-banner);
+    font-family: var(--font-family-title);
+    font-size: var(--font-size-big-title);
+    font-weight: var(--font-weight-primary);
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.75);
+}
+
+@media only screen and (max-width: 768px) {
+    .banner__title {
+        margin: 0 1em;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .banner__title {
+        margin: 0 0.7em;
+    }
+}

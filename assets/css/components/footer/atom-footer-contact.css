@@ -1,0 +1,9 @@
+@import './../../theme/theme.css';
+
+.footer__contact {
+    color: var(--color-font-text-tertiary);
+    font-family: var(--font-family-text);
+    font-size: var(--font-size-subtitle);
+    font-weight: var(--font-weight-primary);
+    text-decoration: none;
+}

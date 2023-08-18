@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico:regular|Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic);
+
+:root {
+    /*Font Family*/
+    --font-family-title: 'Pacifico', cursive;
+    --font-family-text: 'Roboto', sans-serif;
+
+    /*Font Size Desktop*/
+    --font-size-big-title: 5rem;
+    --font-size--medium-title: 3.18rem;
+    --font-size-small-title: 1.43rem;
+    --font-size-subtitle: 2rem;
+    --font-size-big-text: 1.75rem;
+    --font-size-small-text: 1.18rem;
+
+    /*Font Weight*/
+    --font-weight-primary: 400;
+    --font-weight-secondary: 300;
+    --font-weight-tertiary: 500;
+}
+
+@media only screen and (max-width: 768px) {
+    :root {
+        /*Font Size Desktop*/
+        --font-size-big-title: 4rem;
+        --font-size--medium-title: 2.5rem;
+        --font-size-small-title: 1.2rem;
+        --font-size-subtitle: 1.6rem;
+        --font-size-big-text: 1.5rem;
+        --font-size-small-text: 1rem;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    :root {
+        /*Font Size Desktop*/
+        --font-size-big-title: 2.6rem;
+        --font-size--medium-title: 2.2rem;
+        --font-size-small-title: 1.3rem;
+        --font-size-subtitle: 1.8rem;
+        --font-size-big-text: 1.3rem;
+        --font-size-small-text: 1rem;
+    }
+}

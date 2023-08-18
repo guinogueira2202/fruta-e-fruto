@@ -1,0 +1,8 @@
+@import './../../../../theme/theme.css';
+
+.person__name {
+    color: var(--color-font-title-primary);
+    font-family: var(--font-family-title);
+    font-size: var(--font-size-subtitle);
+    font-weight: var(--font-weight-primary);
+}

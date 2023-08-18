@@ -1,0 +1,24 @@
+@import './atom-about-title.css';
+@import './atom-about-text.css';
+
+.main__about {
+    align-items: center;
+    background: var(--color-background-primary);
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+    justify-content: center;
+    padding: 4em 0;
+}
+
+@media only screen and (max-width: 768px) {
+    .main__about {
+        padding: 3em 2em;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .main__about {
+        padding: 2em 1em;
+    }
+}

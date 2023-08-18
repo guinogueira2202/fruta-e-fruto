@@ -1,0 +1,12 @@
+.dropdown {
+    display: none;
+}
+
+.mobile-menu-input:checked ~ .mobile-menu-label > .dropdown {
+    display: flex;
+    flex-direction: column;
+    background: var(--color-background-primary);
+    position: absolute;
+    top: 100%;
+    left: 0;
+}

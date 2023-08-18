@@ -1,0 +1,10 @@
+@import './../../theme/theme.css';
+
+.about-us__text {
+    color: var(--color-font-text-primary);
+    font-family: var(--font-family-text);
+    font-size: var(--font-size-big-text);
+    font-weight: var(--font-weight-secondary);
+    margin-bottom: 1em;
+    text-align: center;
+}

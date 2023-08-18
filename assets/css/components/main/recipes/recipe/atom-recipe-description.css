@@ -1,0 +1,9 @@
+@import './../../../../theme/theme.css';
+
+.recipe__description {
+    color: var(--font-color-text-secondary);
+    font-family: var(--font-family-text);
+    font-size: var(--font-size-small-text);
+    font-weight: var(--font-weight-primary);
+    margin-bottom: 2em;
+}

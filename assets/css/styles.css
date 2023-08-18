@@ -1,0 +1,4 @@
+@import './components/header/organism-header.css';
+@import './components/main/organism-main.css';
+@import './components/about-us/organism-about-us.css';
+@import './components/footer/organism-footer.css';

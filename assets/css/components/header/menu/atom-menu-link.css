@@ -1,0 +1,19 @@
+@import './../theme/theme.css';
+
+.menu__link {
+    font-size: var(--font-size-small-title);
+    font-weight: var(--font-weight-secondary);
+    color: var(--color-font-text-primary), #8C8888;
+    text-decoration: none;
+    padding: 0.5em 1em;
+}
+
+.menu__link--active {
+    color: var(--color-font-text-secondary);
+    font-weight: var(--font-weight-primary);
+}
+
+.menu__link:hover {
+    color: var(--color-font-hover-secondary);
+    font-weight: var(--font-weight-primary);
+}

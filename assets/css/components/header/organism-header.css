@@ -1,0 +1,26 @@
+@import './../theme/theme.css';
+@import './menu/molecule-menu.css';
+@import './menu/molecule-header-menu.css';
+@import './menu/atom-menu-link.css';
+@import './menu/atom-menu-item.css';
+@import './menu/atom-header-logo.css';
+@import './mobile-menu/molecule-mobile-menu-label.css';
+@import './mobile-menu/atom-mobile-menu-input.css';
+@import './mobile-menu/dropdown-menu/molecule-dropdown.css';
+@import './mobile-menu/dropdown-menu/molecule-dropdown-menu.css';
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 15px 0 30px;
+    width: auto;
+    background: var(--color-background-primary);
+}
+
+@media only screen and (max-width: 768px) {
+    .header {
+        justify-content: flex-start;
+        gap: 50px;
+    }
+}

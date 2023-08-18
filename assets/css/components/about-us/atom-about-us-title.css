@@ -1,0 +1,8 @@
+@import './../../theme/theme.css';
+
+.about-us__title {
+    color: var(--color-font-title-primary);
+    font-family: var(--font-family-title);
+    font-size: var(--font-size--medium-title);
+    font-weight: var(--font-weight-primary);
+}

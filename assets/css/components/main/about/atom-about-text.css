@@ -1,0 +1,21 @@
+@import './../../../theme/theme.css';
+
+.about__text {
+    color: var(--color-font-text-primary);
+    font-size: var(--font-size-big-text);
+    font-weight: var(--font-weight-secondary);
+    text-align: center;
+    width: 70%;
+}
+
+@media only screen and (max-width: 768px) {
+    .about__text {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .about__text {
+        width: 90%;
+    }
+}

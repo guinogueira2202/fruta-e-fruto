@@ -1,0 +1,28 @@
+/*Light theme*/
+:root {
+    /*Background Color*/
+    --color-background-primary: #fff;
+    --color-background-secondary: #F1F1F1;
+    --color-background-tertiary: #C4C4C4;
+    
+    /*Font Color*/
+    --color-font-title-banner: #fff;
+    --color-font-title-primary: #8D0606;
+    --color-font-title-secondary: #000;
+    --color-font-text-primary: #8C8888;
+    --color-font-text-secondary: #000;
+    --color-font-text-tertiary: #fff;
+
+    /*Font Hover Color*/
+    --color-font-hover-primary: #a41919;
+    --color-font-hover-secondary: #000;
+
+    /*Button Color*/
+    --color-button: #8D0606;
+    --color-button-hover: #a41919;
+    --color-button-text: #fff;
+    
+    /*Border Color*/
+    --color-border-primary: #8D0606;
+    --color-border-secondary: #8C8888;
+}

@@ -1,0 +1,16 @@
+@import './../../../../theme/theme.css';
+
+.recipe__link {
+  background: var(--color-button);
+  border-radius: 5px;
+  color: var(--color-button-text);
+  font-family: var(--font-family-text);
+  font-size: var(--font-size-small-text);
+  font-weight: var(--font-weight-primary);
+  padding: 0.5em 1em;
+  text-decoration: none;
+}
+
+.recipe__link:hover {
+  background: var(--color-button-hover);
+}

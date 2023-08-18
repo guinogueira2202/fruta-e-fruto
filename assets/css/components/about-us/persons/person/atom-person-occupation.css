@@ -1,0 +1,8 @@
+@import './../../../../theme/theme.css';
+
+.person__occupation {
+    color: var(--color-font-text-primary);
+    font-family: var(--font-family-texy);
+    font-size: var(--font-size-small-title);
+    font-weight: var(--font-weight-primary);
+}

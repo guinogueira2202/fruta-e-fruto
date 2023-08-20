@@ -3,9 +3,17 @@ Bem-vindo(a) ao meu projeto da Fruta & Fruto! Um projeto de desenvolvimento fron
 
 Sou Guilherme Nogueira, estudante de desenvolvimento web na plataforma de ensino online [Alura](https://www.alura.com.br/). Esta é uma das páginas web que desenvolvi praticando front-end, com as linguagens HTML e CSS, ao longo do curso de **Arquitetura CSS: descomplicando os problemas** - [certificado de conclusão](https://cursos.alura.com.br/certificate/40db627c-76d3-4d84-9fe7-bf4eab50c80d?lang=pt_BR).
 
+## Como Visualizar a Página
+
+Você pode visualizar essa página web aqui: 
+
+[![Visualizar projeto na Vercel](https://img.shields.io/badge/Vercel%20Cloud-Visualizar%20a%20página-blue?style=flat-square&logo=vercel&logoColor=white&link=https://fruta-e-fruto-teal.vercel.app/)](https://fruta-e-fruto-teal.vercel.app/)
+
 ## Sobre o Projeto
 
 Se trata de uma página de receitas culinárias, contendo um **cabeçalho**, **banner**, **conteúdo principal** [receitas], uma seção **sobre** e **rodapé**. Pagína web completamente responsiva em diferentes tamanhos de tela.
+
+No cabeçalho da página temos a logo e o menu de navegação com os links de redirecionamento. Na seção "hero" temos o banner, o título e uma subseção "sobre". Na seção principal temos os cards das receitas. Uma seção "quem somos" apresentando as pessoas por trás da iniciativa. Por fim, o rodapé com um link de contato.
 
 <img src="./assets/img/readme/screencapture-127-0-0-1-3000-html-index-html-2023-08-18-06_01_45.png" alt="Screenshot mostrando o panorama completo da página">
 
@@ -32,12 +40,6 @@ A página se adapta em telas de tablets e smartphones de diferentes tamanhos, co
 - Adotei nomenclatura de classes seguindo a metodologia BEM.
 - Organizei meus arquivos CSS utilizando a metodologia do Atomic Design, separando os estilos em organismos, moléculas e átomos.
 - Utilizei variáveis CSS para facilitar a manutenção, centralizando cores, fontes, tamanhos de fontes e pesos de fontes em um único lugar.
-
-## Como Visualizar
-
-Você pode visualizar a página web aqui: 
-
-[![Visualizar projeto na Vercel](https://img.shields.io/badge/Vercel%20Page-Visualizar%20a%20página-blue?style=flat-square&logo=vercel&logoColor=white&link=https://fruta-e-fruto-teal.vercel.app/)](https://fruta-e-fruto-teal.vercel.app/)
 
 ## Sobre Mim
 

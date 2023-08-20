@@ -5,7 +5,7 @@ Sou Guilherme Nogueira, estudante de desenvolvimento web na plataforma de ensino
 
 ## Sobre o Projeto
 
-Se trata de uma página de receitas culinárias, contendo um **header**, **banner**, **conteúdo principal** [receitas], uma seção **sobre** e um **footer**. Completamente responsiva em diferentes tamanhos de tela.
+Se trata de uma página de receitas culinárias, contendo um **cabeçalho**, **banner**, **conteúdo principal** [receitas], uma seção **sobre** e **rodapé**. Pagína web completamente responsiva em diferentes tamanhos de tela.
 
 <img src="./assets/img/readme/screencapture-127-0-0-1-3000-html-index-html-2023-08-18-06_01_45.png" alt="Screenshot mostrando o panorama completo da página">
 

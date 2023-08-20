@@ -5,9 +5,15 @@ Sou Guilherme Nogueira, estudante de desenvolvimento web na plataforma de ensino
 
 ## Sobre o Projeto
 
-Se trata de uma página de receitas culinárias, contendo um **header**, **banner**, **conteúdo principal** [receitas], uma seção **sobre** e um **footer**, completamente responsivos em dispositivos móveis.
+Se trata de uma página de receitas culinárias, contendo um **header**, **banner**, **conteúdo principal** [receitas], uma seção **sobre** e um **footer**. Completamente responsiva em diferentes tamanhos de tela.
 
 <img src="./assets/img/readme/screencapture-127-0-0-1-3000-html-index-html-2023-08-18-06_01_45.png" alt="Screenshot mostrando o panorama completo da página">
+
+## Responsividade Total em Dispositivos Móveis
+
+A página se adapta em telas de tablets e smartphones de diferentes tamanhos, como você pode ver nessa imagem de visualização completa da página em um smartphone. Todos os elementos são reorganizados para caber perfeitamente na tela.
+
+<img src="./assets/img/readme/screencapture-fruta-e-fruto-teal-vercel-app-2023-08-20-16_45_05.png" alt="Screenshot mostrando a página completa no mobile">
 
 ## Linguagens Utilizadas
 

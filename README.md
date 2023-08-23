@@ -15,7 +15,7 @@ Você pode visualizar essa página web aqui:
 
 ## Sobre o Projeto
 
-Se trata de uma página de receitas culinárias, contendo um **cabeçalho**, **banner**, **conteúdo principal** [receitas], uma seção **sobre** e **rodapé**. Pagína web completamente responsiva em diferentes tamanhos de tela.
+Se trata de uma página de receitas culinárias, contendo um **cabeçalho**, **banner**, **conteúdo principal** [receitas], uma seção **sobre** e **rodapé**. Página completamente responsiva em diferentes tamanhos de tela.
 
 * No cabeçalho da página temos a logo e o menu de navegação com os links de redirecionamento.
 * Na seção "hero" temos o banner, o título e uma subseção "sobre".
